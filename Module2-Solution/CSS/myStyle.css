@@ -58,7 +58,7 @@ h2 {
 }        
 
 
-/************* Responsive framework *************/
+/*************Media query used in Lecture 24 and permissible *************/
 .row {
     width: 100%;
     margin: 0;
