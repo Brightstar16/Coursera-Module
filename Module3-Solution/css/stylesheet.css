@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 18px;
+}
+
+
+div.section{
+  background-color: #d0ffe3;
+  padding: 1px 10px;
+  margin-bottom: 32px;
+
+}
+#top {
+  position: absolute;
+}
+
+.collapse {
+
+  background-color: #c0edff;
+
+
+
