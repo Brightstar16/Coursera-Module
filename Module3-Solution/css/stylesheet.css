@@ -23,9 +23,9 @@ div.section{
   position: absolute;
 }
 
-.collapse {
+.visible-xs .collapse {
 
   background-color: #c0edff;
 
-
+}
 
